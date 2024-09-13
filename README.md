@@ -1,5 +1,5 @@
 💧 Water Reminder
-![Water Reminder Banner](link-to-your-banner)
+![Water Reminder Banner](Water_project_web_dev.png)
 
 A simple web app to help you stay hydrated by tracking your water intake!
 
